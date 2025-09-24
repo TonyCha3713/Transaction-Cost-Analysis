@@ -1,0 +1,33 @@
+{
+  "arrival_mid": 10.0,
+  "impact": {
+    "eta_bp_per_10pov": 0.6,
+    "gamma_bp_per_10pov": 0.0
+  },
+  "is": {
+    "fees_bps": 1.0036,
+    "is_bps": 36.0,
+    "residual_bps": -1.0035999999999503,
+    "spread_bps": 35.99999999999995,
+    "timing_bps": 0.0
+  },
+  "schedule": [
+    {
+      "shares": 8000.0,
+      "slice": 0
+    },
+    {
+      "shares": 4000.0,
+      "slice": 1
+    },
+    {
+      "shares": 15000.0,
+      "slice": 2
+    },
+    {
+      "shares": 9000.0,
+      "slice": 3
+    }
+  ],
+  "symbol": "TEST"
+}

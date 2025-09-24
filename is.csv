@@ -1,0 +1,6 @@
+metric,value_bps
+is_bps,36
+spread_bps,36
+fees_bps,1.0036
+timing_bps,0
+residual_bps,-1.0036
