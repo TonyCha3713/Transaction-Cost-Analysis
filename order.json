@@ -1,0 +1,8 @@
+{
+  "side": "BUY",
+  "qty": 50000,
+  "horizon_s": 1800,
+  "slices": 4,
+  "max_pov": 0.10,
+  "risk_lambda": 0.2
+}

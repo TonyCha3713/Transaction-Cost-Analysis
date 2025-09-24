@@ -1,0 +1,4 @@
+ts,side,qty,price,venue,fee_bps
+10,BUY,10000,10.02,X,1.0
+20,BUY,20000,10.03,X,1.0
+30,BUY,20000,10.05,X,1.0
