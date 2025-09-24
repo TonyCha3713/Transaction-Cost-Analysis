@@ -1,0 +1,12 @@
+# IDE settings
+.vscode/
+
+# Build artifacts
+build/
+
+# macOS Finder files
+.DS_Store
+
+# Optional: OS-generated files
+Thumbs.db
+
